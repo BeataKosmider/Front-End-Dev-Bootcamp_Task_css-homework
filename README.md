@@ -1,3 +1,5 @@
+Tasks realized during Front-End Developer Bootcamp
+
 # CSS homework
 
 
