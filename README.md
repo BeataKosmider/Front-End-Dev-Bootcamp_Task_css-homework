@@ -10,7 +10,7 @@ Następnie w pliku index.html dodaj podstawową strukturę HTML oraz zaimportuj 
 Stwórz plik index.html, style.css oraz reset.css
 Następnie w pliku index.html dodaj podstawową strukturę HTML oraz zaimportuj stworzone wcześniej pliki CSS. Pamiętaj o zachowaniu poprawnej kolejności! Do pliku reset.css dodaj resetowanie domyślnych stylów przeglądarki. Możesz skorzystać z dowolnego źródła.
 
-2. 3. Korzystając z plików stworzonych przy poprzednim zadaniu, dodaj teraz następujące stylowanie strony:
+2., 3. Korzystając z plików stworzonych przy poprzednim zadaniu, dodaj teraz następujące stylowanie strony:
 
 każdy h1 powinien mieć rozmiar 32px
 każdy h2 powinien mieć rozmiar 24px
