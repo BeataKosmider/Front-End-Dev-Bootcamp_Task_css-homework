@@ -2,7 +2,19 @@ Tasks realized during Front-End Developer Bootcamp
 
 # CSS homework
 
+1. Stwórz plik index.html oraz plik style.css.
+Następnie w pliku index.html dodaj podstawową strukturę HTML oraz zaimportuj stworzony wcześniej plik CSS. Spraw aby tło Twojej strony zmieniło kolor na niebieski (kolor “blue”).
 
+2. Stwórz plik index.html, style.css oraz reset.css
+Następnie w pliku index.html dodaj podstawową strukturę HTML oraz zaimportuj stworzone wcześniej pliki CSS. Pamiętaj o zachowaniu poprawnej kolejności! Do pliku reset.css dodaj resetowanie domyślnych stylów przeglądarki. Możesz skorzystać z dowolnego źródła.
+
+3. Korzystając z plików stworzonych przy poprzednim zadaniu, dodaj teraz następujące stylowanie strony:
+
+każdy h1 powinien mieć rozmiar 32px
+każdy h2 powinien mieć rozmiar 24px
+kolor czcionki na całej stronie (body) to #3f3f3f
+
+Umieść teraz po jednej sztuce H1 oraz H2 w ciele strony.
 
 ## Getting started
 
