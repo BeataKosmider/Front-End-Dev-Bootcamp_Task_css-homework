@@ -16,6 +16,9 @@ kolor czcionki na całej stronie (body) to #3f3f3f
 
 Umieść teraz po jednej sztuce H1 oraz H2 w ciele strony.
 
+4. Stwórz diva, który dla rozdzielczości mobilnych (do 768px) ma szerokość 94% i zawsze jest wycentrowany w poziomie. Spraw, aby na większych ekranach (powyżej 768px) zmienił swoją szerokość na 640px. Nie dodawaj reset.css.
+
+   
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
