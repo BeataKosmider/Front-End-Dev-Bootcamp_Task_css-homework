@@ -1,4 +1,4 @@
-Tasks realized during Front-End Developer Bootcamp
+Task performed during Front-End Developer Bootcamp
 
 # CSS homework
 
